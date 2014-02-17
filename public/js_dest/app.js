@@ -1,0 +1,1 @@
+/* here you can put some comments about your app */!function(){console.log("hello world - this is the first module")}(),function(){console.log("... and our second module")}();

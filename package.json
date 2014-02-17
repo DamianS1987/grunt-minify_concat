@@ -1,0 +1,29 @@
+{
+  "name": "grunt-test",
+  "version": "0.0.1-1",
+  "private": false,
+  "author": "damianstefaniak1987",
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "connect": "2.9.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-develop": "~0.1.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-compass": "~0.2.0",
+    "request": "~2.22.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.5",
+    "grunt-contrib-requirejs": "~0.4.1"
+  },
+  "subdomain": "localhost",
+  "domains": [
+    "localhost"
+  ],
+  "engines": {
+    "node": "0.10.x"
+  }
+}
